@@ -84,8 +84,8 @@ The script is packaged as a `.command` file, which is macOS-specific and can be 
 - Press `Ctrl+C` at any time to exit cleanly, resetting the terminal and removing cache files.
 
 ## Screenshots
-url("./screenshot.png")
-url("./screenshot2.png")
+url(./screenshot.png)
+url(./screenshot2.png)
 
 
 ## Notes
