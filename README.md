@@ -89,7 +89,6 @@ Below are screenshots demonstrating the script's interface in action:
 | **Configuration Menu** | **Progress Bar & Retry Prompt** |
 |------------------------|------------------|
 | ![Configuration Menu](https://github.com/ishara-madu/scrcpy-auto-retry/raw/main/screenshots/configuration_menu.png)<br>Shows the initial prompt for entering the scrcpy resolution. | ![Progress Bar](https://github.com/ishara-madu/scrcpy-auto-retry/raw/main/screenshots/progress_bar.png)<br>Displays the dynamic progress bar during the 60-second timeout and Shows the prompt after 50 attempts asking to continue or exit.
-*Replace the placeholder URLs above with the actual URLs of your hosted screenshots.*
 
 
 ## Notes
